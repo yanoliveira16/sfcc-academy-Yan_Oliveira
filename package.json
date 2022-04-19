@@ -16,6 +16,7 @@
     "fix:js-server": "eslint --config .eslintrc_server.js --fix",
     "fix:js-client": "eslint --config .eslintrc_client.js --fix",
     "prettier": "prettier"
+
   },
   "repository": {
     "type": "git"
@@ -58,4 +59,6 @@
     "popper.js": "^1.14.6",
     "xzoom": "^1.0.14"
   }
+  
+  
 }
